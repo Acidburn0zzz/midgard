@@ -16,7 +16,7 @@
     "object-assign": "^3.0.0",
     "react": "^0.13.3",
     "react-favicon": "0.0.3",
-    "react-router": "1.0.0-beta2",
+    "react-router": "1.0.3",
     "uglify-js": "^3.4.9",
     "ungrid": "^1.0.1",
     "watchify": "^3.3.1"
