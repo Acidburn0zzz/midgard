@@ -14,7 +14,7 @@
     "nodemon": "1.4.0",
     "normalize.css": "^3.0.3",
     "object-assign": "^3.0.0",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
     "react-favicon": "0.0.3",
     "react-router": "1.0.0-beta2",
     "uglify-js": "^3.4.9",
